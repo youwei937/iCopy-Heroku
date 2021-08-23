@@ -15,11 +15,11 @@
 ## Deployment to Heroku
 iCopy Version - v0.2.2 (No Web DashBoard Only Bot)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Godcic/iCopy-Heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/youwei937/iCopy-Heroku/tree/master)
 
 iCopy Version - v0.2.2 (Only Web DashBoard)(NOT SUPPORT)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Godcic/iCopy-Heroku/tree/web)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/youwei937/iCopy-Heroku/tree/web)
 
 Deploy Both If U wanna Use Web Dashboard and use the same config vars for Web one as the Bot one.
 
